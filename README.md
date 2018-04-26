@@ -1,5 +1,10 @@
 # EYTestTask2
-<h3>После запуска приложения выберите Exel-файл со следующей структурой:
+
+<h3>Для запуска добавьте ссылку на стандартную библиотеку
+<p align="center">
+  <img src="https://image.ibb.co/gbL7Wx/4.png" width="600"/>
+</p>
+После запуска приложения выберите Exel-файл со следующей структурой:
 <p align="center">
   <img src="https://image.ibb.co/cE1Zdc/1.png" width="600"/>
 </p>
