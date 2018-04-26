@@ -8,7 +8,7 @@
   <img src="https://image.ibb.co/dbBmPH/2.png" width="600"/>
 </p>
 
-<b>Обязательно дождитесь появления кнопки ShowData и изменения статуса файла на Uploaded.</b>
+<b>Обязательно дождитесь появления кнопки ShowData и изменения свойства файла Uploaded на Yes.</b>
   Время ожидания зависит от размера файла (для тренировочного это 2 минуты)
   <p align="center">
   <img src="https://image.ibb.co/hVAfjH/3.png" width="600"/>
