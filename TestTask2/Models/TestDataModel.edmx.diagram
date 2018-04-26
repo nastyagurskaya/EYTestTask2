@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e19d5ccb100d472cb4aa7bb5a9095648" Name="Diagram1">
+        <EntityTypeShape EntityType="TestDBModel.Circulation" Width="1.5" PointX="0.625" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestDBModel.ClosingBalance" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestDBModel.OpeningBalance" Width="1.5" PointX="3.5" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestDBModel.Sheet" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestDBModel.DataFile" Width="1.5" PointX="0.875" PointY="3.25" />
+        <AssociationConnector Association="TestDBModel.DataFileSheet" />
+        <AssociationConnector Association="TestDBModel.CirculationSheet" />
+        <AssociationConnector Association="TestDBModel.OpeningBalanceSheet" />
+        <AssociationConnector Association="TestDBModel.ClosingBalanceSheet" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
