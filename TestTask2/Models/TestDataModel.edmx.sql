@@ -94,7 +94,7 @@ GO
 
 -- Creating table 'DataFiles'
 CREATE TABLE [dbo].[DataFiles] (
-    [Id] int  NOT NULL,
+    [Id] int int IDENTITY(1,1) NOT NULL,
     [FileName] nvarchar(max)  NOT NULL,
     [Uploaded] bit  NOT NULL
 );
